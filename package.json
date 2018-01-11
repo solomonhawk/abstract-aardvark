@@ -10,6 +10,8 @@
   "author": "Solomon Hawk <solomon.hawk@viget.com> (http://viget.com/)",
   "license": "ISC",
   "dependencies": {
-    "micro": "9.1.0"
+    "animals": "0.0.3",
+    "micro": "9.1.0",
+    "moniker": "0.1.2"
   }
 }
